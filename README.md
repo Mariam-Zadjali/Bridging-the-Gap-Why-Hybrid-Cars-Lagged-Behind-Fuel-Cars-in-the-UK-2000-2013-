@@ -24,3 +24,9 @@ To identify the key barriers that limit the uptake of hybrid cars compared to co
 11.	How did consumer perceptions of performance (drivability, convenience, comfort) influence the preference for fuel cars over hybrids?
 12.	To analyze how the dominance of fuel cars influenced the UK’s progress toward cleaner transportation goals.
 
+## Target Audience
+Car manufacturers
+Policy makers
+
+## Dataset
+https://www.kaggle.com/datasets/mohameds10960/car-fuel-and-emissions-2000-2013
